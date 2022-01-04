@@ -1,0 +1,30 @@
+body{
+    font-family: 'Pushster', cursive;
+    margin: 0;
+}
+h1{
+    font-size: 70px;
+}
+.aaa{
+    color: red;
+}
+section{
+    display: flex;
+}
+.bbb{
+    width: 50%;
+    padding: 5%;
+}
+.bbb img{
+    width: 100%;
+}
+.ccc{
+    text-decoration: none;
+    background-color: black;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.ddd{
+    background-image: url(images/mallik.png); 
+    background-repeat: no-repeat;
+}
