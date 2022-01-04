@@ -28,3 +28,13 @@ section{
     background-image: url(images/mallik.png); 
     background-repeat: no-repeat;
 }
+section{
+    display: flex;
+}
+.faysal{
+    width: 100%;
+    padding-left: 5%;
+}
+.faysal img{
+    width: 100%;
+}
